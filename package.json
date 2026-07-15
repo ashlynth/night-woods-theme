@@ -1,26 +1,30 @@
 {
-  "name": "mjolnix",
-  "displayName": "Mjolnix",
-  "description": "Mjolnix is a dark theme with light orange, red, and yellow accents for Visual Studio Code.",
+  "name": "night-woods-theme",
+  "displayName": "Night Woods",
+  "description": "night-woods-theme is a dark green theme for Visual Studio Code.",
   "icon": "icon.png",
-  "version": "1.1.0",
-  "publisher": "AmeyRajeshShaligram",
+  "version": "1.0.0",
+  "publisher": "ashlynth",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ameysh/mjolnix.git"
+    "url": "https://github.com/ashlynth/night-woods-theme.git"
   },
   "keywords": [
     "theme",
     "dark",
     "vscode",
-    "mjolnix",
-    "mjolnix theme",
-    "ameysh",
-    "dark grey",
-    "orange",
-    "red",
-    "yellow"
+    "night woods",
+    "night woods theme",
+    "dark green",
+    "green",
+    "forest",
+    "nature",
+    "woods",
+    "trees",
+    "night",
+    "dark mode",
+    "dark theme"
   ],
   "engines": {
     "vscode": "^1.97.0"
@@ -31,9 +35,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mjolnix",
+        "label": "Night Woods",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mjolnix-color-theme.json"
+        "path": "./themes/night-woods-theme.json"
       }
     ]
   }

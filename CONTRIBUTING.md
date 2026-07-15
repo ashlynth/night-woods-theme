@@ -1,12 +1,12 @@
-# Contributing to Mjolnix
+# Contributing to Night Woods
 
-Thank you for considering contributing to **Mjolnix**. Your help is greatly appreciated in making this theme better for all users.
+Thank you for considering contributing to **Night Woods**. Your help is greatly appreciated in making this theme better for all users.
 
 ## How to Contribute
 
 ### 1. Reporting Issues
 
-If you find a bug, visual inconsistency, or have suggestions for improvements, please open an [issue](https://github.com/ameysh/mjolnix/issues) and include:
+If you find a bug, visual inconsistency, or have suggestions for improvements, please open an [issue](https://github.com/ashlynth/night-woods-theme/issues) and include:
 
 - A clear description of the issue
 - Steps to reproduce (if applicable)
@@ -41,7 +41,7 @@ If you have an idea for a new feature or theme enhancement, feel free to open a 
 The extension structure is straightforward:
 
 - `package.json` - manifest file defining theme location and base theme specifications
-- `themes/Mjolnix-color-theme.json` - the color theme definition file
+- `themes/night-woods-theme.json` - the color theme definition file
 
 To start development:
 
@@ -51,7 +51,7 @@ You can also:
 
 1. Test the theme:
    - Use `File > Preferences > Theme > Color Theme` or `Ctrl+K Ctrl+T`
-   - Select "Mjolnix" from the theme picker
+   - Select "Night Woods" from the theme picker
 2. Inspect token colors:
    - Open a file with syntax highlighting
    - Use `Developer: Inspect Editor Tokens and Scopes` (Command Palette: `Ctrl+Shift+P` or `Cmd+Shift+P`)
@@ -89,4 +89,4 @@ Feel free to join discussions in the issues section. Collaboration is encouraged
 
 ---
 
-Thank you for contributing to Mjolnix! Your support helps improve the experience for all users.
+Thank you for contributing to Night Woods! Your support helps improve the experience for all users.
