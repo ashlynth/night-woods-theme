@@ -2,7 +2,7 @@
 
 Night Woods is a dark green theme with light greys, cool blues, green, and brown accents for Visual Studio Code. The theme provides a comfortable viewing experience with carefully chosen colors for better code readability.
 
-![Screenshot of Night Woods Theme](screenshot.png)
+![Screenshot of Night Woods Theme](screenshot.PNG)
 
 ## Installation
 
